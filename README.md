@@ -1,6 +1,8 @@
 ## crayon-JDM-plug
 
 [Simplifed Chinese](README_cn.md)
+This is a Cyaron plugin from another data maker.  
+It aims to make a easier module for [Crayon written by Optimize_2.](https://github.com/optimize-2/Crayon)
 
 Let your Cyaron support JDM modules,  
 then may define your JDM.
